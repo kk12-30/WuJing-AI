@@ -1,5 +1,5 @@
 # 无镜AI Security Scanner
-<h1 align="center">无镜AI扫描 🎯</h1>
+<h1 align="center">无镜AI🎯</h1>
 <p align="center">
   <strong>AI驱动的下一代Web应用安全测试工具</strong>
 </p>
