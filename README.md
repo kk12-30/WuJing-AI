@@ -6,6 +6,9 @@
 **无镜AI扫描**是一款革命性的Web应用安全测试工具，基于Playwright MCP它将传统安全扫描器的系统化方法与大语言模型的智能分析能力相结合。不同于遵循预定义模式的传统扫描器，无镜AI扫描能够像人类渗透测试专家一样思考，分析应用程序行为，生成复杂的测试用例，并通过自主决策验证发现的漏洞。
 
 ![image](https://github.com/kk12-30/WuJing-AI-Scan/blob/main/210230.png)
+![image](https://github.com/kk12-30/WuJing-AI-Scan/blob/main/1.png)
+![image](https://github.com/kk12-30/WuJing-AI-Scan/blob/main/2.png)
+
 
 ### 核心组件
 - **🎮 Agent**: 协调整个扫描流程的核心控制器
